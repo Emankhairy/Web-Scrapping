@@ -1,7 +1,7 @@
 # 📊 Web Scraping Project
 ## 📝 Overview
 
-This project demonstrates web scraping techniques using Python.
+This project demonstrates **web scraping techniques** using Python.
 We collect and analyze data from three different sources:
 
 **1- YallaKora** – Football matches, scores, and related information.
