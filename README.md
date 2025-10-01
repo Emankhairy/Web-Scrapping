@@ -11,3 +11,13 @@ We collect and analyze data from three different sources:
 **3- Book Shop** – Online bookstore data such as titles, authors, prices, and ratings.
 
 The project shows how to fetch, clean, and save structured data for further analysis.
+
+## ⚙️ Technologies Used
+
+- **Python 3.x**
+
+- **Requests** → Sending HTTP requests
+
+- **BeautifulSoup4** → Parsing and extracting HTML data
+
+
