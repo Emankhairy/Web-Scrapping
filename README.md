@@ -20,4 +20,12 @@ The project shows how to fetch, clean, and save structured data for further anal
 
 - **BeautifulSoup4** → Parsing and extracting HTML data
 
+## 🔮 Future Improvements
 
+Add **Selenium** for dynamic websites.
+
+Store results in a **database** (MySQL / MongoDB).
+
+Automate daily scraping with **cron jobs / Airflow**.
+
+Build a **dashboard** to visualize the collected data.
